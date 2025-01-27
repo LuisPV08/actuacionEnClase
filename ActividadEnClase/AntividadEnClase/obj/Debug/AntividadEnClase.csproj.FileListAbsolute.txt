@@ -1,0 +1,7 @@
+D:\Luis\source\repos\AntividadEnClase\AntividadEnClase\bin\Debug\AntividadEnClase.exe.config
+D:\Luis\source\repos\AntividadEnClase\AntividadEnClase\bin\Debug\AntividadEnClase.exe
+D:\Luis\source\repos\AntividadEnClase\AntividadEnClase\bin\Debug\AntividadEnClase.pdb
+D:\Luis\source\repos\AntividadEnClase\AntividadEnClase\obj\Debug\AntividadEnClase.csproj.AssemblyReference.cache
+D:\Luis\source\repos\AntividadEnClase\AntividadEnClase\obj\Debug\AntividadEnClase.csproj.CoreCompileInputs.cache
+D:\Luis\source\repos\AntividadEnClase\AntividadEnClase\obj\Debug\AntividadEnClase.exe
+D:\Luis\source\repos\AntividadEnClase\AntividadEnClase\obj\Debug\AntividadEnClase.pdb

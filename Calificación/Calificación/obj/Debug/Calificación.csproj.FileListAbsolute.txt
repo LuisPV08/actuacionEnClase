@@ -1,0 +1,7 @@
+D:\Luis\source\repos\Calificación\Calificación\bin\Debug\Calificación.exe.config
+D:\Luis\source\repos\Calificación\Calificación\bin\Debug\Calificación.exe
+D:\Luis\source\repos\Calificación\Calificación\bin\Debug\Calificación.pdb
+D:\Luis\source\repos\Calificación\Calificación\obj\Debug\Calificación.csproj.AssemblyReference.cache
+D:\Luis\source\repos\Calificación\Calificación\obj\Debug\Calificación.csproj.CoreCompileInputs.cache
+D:\Luis\source\repos\Calificación\Calificación\obj\Debug\Calificación.exe
+D:\Luis\source\repos\Calificación\Calificación\obj\Debug\Calificación.pdb

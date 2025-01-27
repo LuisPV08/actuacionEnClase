@@ -1,0 +1,7 @@
+D:\Luis\source\repos\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe.config
+D:\Luis\source\repos\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.exe
+D:\Luis\source\repos\NumeroMayor\NumeroMayor\bin\Debug\NumeroMayor.pdb
+D:\Luis\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.AssemblyReference.cache
+D:\Luis\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.csproj.CoreCompileInputs.cache
+D:\Luis\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.exe
+D:\Luis\source\repos\NumeroMayor\NumeroMayor\obj\Debug\NumeroMayor.pdb
