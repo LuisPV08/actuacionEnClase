@@ -1,0 +1,7 @@
+D:\Luis\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe.config
+D:\Luis\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.exe
+D:\Luis\source\repos\PiedraPapelTijera\PiedraPapelTijera\bin\Debug\PiedraPapelTijera.pdb
+D:\Luis\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.AssemblyReference.cache
+D:\Luis\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.csproj.CoreCompileInputs.cache
+D:\Luis\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.exe
+D:\Luis\source\repos\PiedraPapelTijera\PiedraPapelTijera\obj\Debug\PiedraPapelTijera.pdb
